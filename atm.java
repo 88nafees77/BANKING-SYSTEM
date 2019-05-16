@@ -1,3 +1,4 @@
+//java
 import java.util.*;
 class Create_accnt{
 	private String user_name="nafees";
